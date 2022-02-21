@@ -1,2 +1,4 @@
 # this file defines the pip packages neede by this application
 flask==2.0.2
+gunicorn==20.0.4
+
